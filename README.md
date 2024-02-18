@@ -39,9 +39,12 @@ https://github.com/LeviLucena/Arbovirose.git
 ```
    
 2. Navegue até o diretório do projeto.
-   ```bash (base) C:\Users\SR_LU>cd C:\ProjetoPython\DashsPython ```
+```bash
+   (base) C:\Users\SR_LU>cd C:\ProjetoPython\DashsPython
+```
    
 3. Execute o seguinte comando no terminal:
 ```bash
 python app.py
 ```
+
