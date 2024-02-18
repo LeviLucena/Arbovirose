@@ -30,6 +30,14 @@ O Dashboard de Arbovirose em São Paulo oferece diversas funcionalidades, inclui
 - **Análise Demográfica:** Gráficos de distribuição de casos por idade e gênero, auxiliando na compreensão do perfil dos pacientes afetados.
 - **Monitoramento em Tempo Real:** Atualização automática dos dados conforme novas informações são disponibilizadas pelas autoridades de saúde.
 
+## Galeria
+![tela2](https://github.com/LeviLucena/Arbovirose/assets/34045910/e7cf2876-50d7-46fe-88ee-439850a3e734)
+![tela3](https://github.com/LeviLucena/Arbovirose/assets/34045910/e5b25050-13e0-4c9b-9b03-da4eb8222ce3)
+![tela4](https://github.com/LeviLucena/Arbovirose/assets/34045910/9a763304-2d70-4087-b0b3-248e6cc370e0)
+![tela5](https://github.com/LeviLucena/Arbovirose/assets/34045910/222b088a-bea5-45b7-8d18-5d7e3f8a3c12)
+![tela6](https://github.com/LeviLucena/Arbovirose/assets/34045910/986d6244-76d2-4d3e-823c-990c7e83ec67)
+
+
 ## Execução
 Para executar o projeto:
 
@@ -40,11 +48,14 @@ https://github.com/LeviLucena/Arbovirose.git
    
 2. Navegue até o diretório do projeto.
 ```bash
-   (base) C:\Users\SR_LU>cd C:\ProjetoPython\DashsPython
+(base) C:\Users\SR_LU>cd C:\ProjetoPython\DashsPython
 ```
    
 3. Execute o seguinte comando no terminal:
 ```bash
 python app.py
 ```
+## Contato
+Estou sempre aberto a oportunidades de colaboração e novos desafios. Se você estiver interessado em discutir projetos, oportunidades profissionais ou simplesmente compartilhar experiências, não hesite em entrar em contato comigo.
 
+- **LinkedIn:** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
