@@ -418,7 +418,7 @@ app.layout = html.Div(children=[
     ),
 
     html.Div(children=[
-        html.H1(children='Mapa de Calor - Atividade de Arbovirose em Municípios de SP'),
+        html.H1(children=''),
 
         dcc.Graph(
             id='arbovirose-heatmap',
@@ -444,7 +444,7 @@ app.layout = html.Div(children=[
                     )
                 ],
                 'layout': go.Layout(
-                    # title='Mapa de Calor - Atividade de Arbovirose em Municípios de SP',
+                    title='Mapa de Calor - Atividade de Arbovirose em Municípios de SP',
                     mapbox=dict(
                         center=dict(lat=-23.5505, lon=-46.6333),  # Centralizado em São Paulo
                         zoom=8,  # Zoom inicial
