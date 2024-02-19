@@ -13,7 +13,7 @@ external_stylesheets = ['https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1
 dates = pd.date_range(start='2024-01-01', end=pd.Timestamp.today(), freq='D')
 
 # Geração de casos notificados aleatórios para cada data
-notified_cases = [random.randint(20, 5000) for _ in range(len(dates))]
+notified_cases = [random.randint(5000, 10000) for _ in range(len(dates))]
 
 # Geração de casos suspeitos aleatórios para cada data
 suspected_cases = [random.randint(20, 5000) for _ in range(len(dates))]
