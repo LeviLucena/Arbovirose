@@ -35,7 +35,9 @@ O Dashboard de Arbovirose em São Paulo oferece diversas funcionalidades, inclui
 ![tela3](https://github.com/LeviLucena/Arbovirose/assets/34045910/e5b25050-13e0-4c9b-9b03-da4eb8222ce3)
 ![tela4](https://github.com/LeviLucena/Arbovirose/assets/34045910/9a763304-2d70-4087-b0b3-248e6cc370e0)
 ![tela5](https://github.com/LeviLucena/Arbovirose/assets/34045910/222b088a-bea5-45b7-8d18-5d7e3f8a3c12)
-![tela6](https://github.com/LeviLucena/Arbovirose/assets/34045910/986d6244-76d2-4d3e-823c-990c7e83ec67)
+![Capturar555](https://github.com/LeviLucena/Arbovirose/assets/34045910/8448d119-c002-401b-afb0-8ca0b3af16c3)
+
+
 
 
 ## Execução
