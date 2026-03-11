@@ -1,8 +1,7 @@
 # Arbovirose SP — Dashboard Epidemiológico
 
-![logo artigo](https://github.com/LeviLucena/Arbovirose/assets/34045910/74a25acd-b4de-4c01-b849-284bbc16bbc4)
-
 Dashboard interativo para monitoramento de casos de arboviroses (Dengue, Chikungunya e Zika) no estado de São Paulo, com dados mock sazonais, filtros dinâmicos e visualizações epidemiológicas avançadas.
+<img width="2752" height="1536" alt="Gemini_Generated_Image_bamfsmbamfsmbamf" src="https://github.com/user-attachments/assets/6030909f-f027-4d9b-b069-89a506bd6a7d" />
 
 ---
 
@@ -19,9 +18,8 @@ Dashboard interativo para monitoramento de casos de arboviroses (Dengue, Chikung
 
 ## Galeria
 
-![tela2](https://github.com/LeviLucena/Arbovirose/assets/34045910/e7cf2876-50d7-46fe-88ee-439850a3e734)
-![tela3](https://github.com/LeviLucena/Arbovirose/assets/34045910/e5b25050-13e0-4c9b-9b03-da4eb8222ce3)
-![tela4](https://github.com/LeviLucena/Arbovirose/assets/34045910/9a763304-2d70-4087-b0b3-248e6cc370e0)
+![tela2](https://github.com/user-attachments/assets/dadbd388-cbff-46da-a73f-486b71936536)
+![tela3](https://github.com/user-attachments/assets/406aa8a9-4263-4b44-8540-3b4c1d71c894)
 
 ---
 
